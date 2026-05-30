@@ -161,7 +161,7 @@ Método:
 
 Crie:
 - Admin
-- UsuarioComum
+- UsuarioComum 
 
 Regras:
 - Admin possui acesso total
